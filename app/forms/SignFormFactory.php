@@ -2,9 +2,9 @@
 
 namespace App\Forms;
 
-use Nette,
-	Nette\Application\UI\Form,
-	Nette\Security\User;
+use Nette;
+use Nette\Application\UI\Form;
+use Nette\Security\User;
 
 
 class SignFormFactory extends Nette\Object
